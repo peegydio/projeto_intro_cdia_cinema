@@ -8,5 +8,5 @@
 
 ## Tema do Projeto
 Análise de Premiações no Cinema Mundial
-## 📊 Abordagem de Coleta dos Dados
+## Abordagem de Coleta dos Dados
 API's, como a do TMDB
